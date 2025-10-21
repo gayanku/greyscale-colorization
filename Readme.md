@@ -15,15 +15,12 @@ This dataset is intended strictly for private academic use. All images are subje
   ```python
   cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-- folder structure
-  
-├── test-dataset/
-
-    ├── G_1.jpg
-  
-    ├── G_2.jpg
-  
-    ├── G_3.jpg
+- Folder structure
+```bash
+├── test-dataset
+      ├── G_1.jpg
+      ├── G_2.jpg
+      ├── G_3.jpg
 
 
 
