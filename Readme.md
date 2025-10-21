@@ -31,7 +31,7 @@ This dataset is intended strictly for private academic use. All images are subje
   ![Sample Grayscale Image](test-dataset/G_1.jpg)  
   ![Sample Color Image](assets/C_1.jpg)
 
-- Below is a colorization result of the same grey-scale image based on an Internet-sourced image (name withheld):  
+- Below is a colorization result of the same grey-scale image obtained from an online tool/website (name withheld):  
   ![Sample Colorization](assets/Colorization.png)
   
 ### Your Task
