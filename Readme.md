@@ -27,11 +27,11 @@ This dataset is intended strictly for private academic use. All images are subje
 
 ### Colorization Sample
 
-- Below is `G_1.jpg` and its intended (original) color image:  
+- Below is `G_1.jpg` and its intended (original, actual) color image:  
   ![Sample Grayscale Image](test-dataset/G_1.jpg)  
   ![Sample Color Image](assets/C_1.jpg)
 
-- Below is a colorization result based on an Internet-sourced image (name withheld):  
+- Below is a colorization result of the same grey-scale image based on an Internet-sourced image (name withheld):  
   ![Sample Colorization](assets/Colorization.png)
   
 ### Your Task
