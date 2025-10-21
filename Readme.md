@@ -2,6 +2,7 @@
 
 # COMP3710 (University of Queensland) — Grayscale to Color Image Colorization Model Test Dataset  
 
+![Sample Image](assets/Greyscale_samples.png)
 
 This repository contains a curated dataset used for testing grayscale-to-color image colorization models developed in COMP3710. 
 The dataset includes a mix of AI-generated and publicly sourced images, selected to support academic experimentation and model evaluation.
@@ -24,8 +25,16 @@ This dataset is intended strictly for private academic use. All images are subje
 ```
 
 
-### Colorization sample
-The bellow is G_1.jpg and its intender (original) color image.
+### Colorization Sample
+
+- Below is `G_1.jpg` and its intended (original) color image:  
+  ![Sample Grayscale Image](test-dataset/G_1.jpg)  
+  ![Sample Color Image](assets/C_1.jpg)
+
+- Below is a colorization result based on an Internet-sourced image (name withheld):  
+  ![Sample Colorization](assets/Colorization.png)
+  
+
 
 
 
