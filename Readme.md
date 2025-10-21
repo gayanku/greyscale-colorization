@@ -34,7 +34,13 @@ This dataset is intended strictly for private academic use. All images are subje
 - Below is a colorization result based on an Internet-sourced image (name withheld):  
   ![Sample Colorization](assets/Colorization.png)
   
+### Your Task
 
+Use the fine-tuned **Mamba** model to colorize the grayscale images provided in this dataset.
+A **perceptual realism test** will be used to evaluate the results — assessing whether the generated colors appear realistic to a human observer.
+
+> ⚠️ **Note**  
+Not all grayscale images can be accurately colorized, especially in the absence of visual cues, contextual information, or semantic understanding. This is expected and considered normal for edge cases.
 
 
 
