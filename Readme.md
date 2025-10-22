@@ -15,7 +15,7 @@ This dataset is intended strictly for private academic use. All images are subje
 - Each grayscale image was generated using OpenCV:
   ```python
   cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) # single-channel grayscale image
-
+- See [create-dataset.py](create-dataset.py) for the full code used to create the samples.
 
 - Folder structure
 ```bash
