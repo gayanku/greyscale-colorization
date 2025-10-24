@@ -45,3 +45,7 @@ Not all grayscale images can be accurately colorized, especially in the absence 
 
 Note how, in the re-colored image, the model interprets the scene as occurring during sunset (which is fine) and colors the bridge and water accordingly. However, it paints the wake of the boat yellow, likely due to mapping white to yellow. This can be interpreted as a lack of full image understanding, which is challenging in some contexts.
 
+### Water marked color images
+![Water marked color images](assets/color_watermarked.png)
+
+
